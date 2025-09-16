@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">👀 Actualmente estoy en búsqueda de oportunidades laborales en el ámbito de la programación, tanto en backend como en frontend.<br><br>💻 Los lenguajes que suelo usar son: Java, JavaScript, TypeScript, HTML y CSS.<br><br>📚 En este momento, me estoy enfocando en profundizar mis conocimientos en REACT y perfeccionar mis habilidades en TypeScript, llevando a cabo proyectos personales.<br><br><br>🌐 Puedes conocer más sobre mí en mi porfolio web: [Portafolio](https://portafolio-miguel-a-ledesma.netlify.app/)<br><br>🔗 También puedes conectar conmigo a través de LinkedIn: [Mi Linkedin](https://www.linkedin.com/in/miguel-angel-ledesma-rodriguez-49b8b436b/)</p>
+<p align="left">👀 Actualmente estoy en búsqueda de oportunidades laborales en el ámbito de la programación, tanto en backend como en frontend.<br><br>💻 Los lenguajes que suelo usar son: Java, JavaScript, TypeScript, HTML y CSS.<br><br>📚 En este momento, me estoy enfocando en profundizar mis conocimientos en REACT y perfeccionar mis habilidades en TypeScript, llevando a cabo proyectos personales.<br><br><br>🌐 Puedes conocer más sobre mí en mi porfolio web: [Portafolio] (https://portafolio-miguel-a-ledesma.netlify.app/)<br><br>🔗 También puedes conectar conmigo a través de LinkedIn: [Mi Linkedin] (https://www.linkedin.com/in/miguel-angel-ledesma-rodriguez-49b8b436b/)</p>
 
 ###
 
